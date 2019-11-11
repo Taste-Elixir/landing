@@ -1,0 +1,2 @@
+# landing
+Taste Elixir page.
