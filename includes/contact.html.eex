@@ -1,0 +1,22 @@
+<div class="container">
+  <div class="row mb-5">
+    <div class="col-lg-4 ">
+      <div class="site-section-heading" data-aos="fade-up">
+        <h2>Get In Touch</h2>
+      </div>
+    </div>
+  </div>
+    <div class="col-md-6 ml-auto" data-aos="fade-up" data-aos-delay="100">
+      <div class="p-4 mb-3">
+        <p class="mb-0 font-weight-bold text-secondary text-uppercase mb-3">Address</p>
+        <p class="mb-4">Poznań, Poland</p>
+
+        <p class="mb-0 font-weight-bold text-secondary text-uppercase mb-3">Phone</p>
+        <p class="mb-4"><a href="#">+48 693 840 201</a></p>
+
+        <p class="mb-0 font-weight-bold text-secondary text-uppercase mb-3">Email Address</p>
+        <p class="mb-0"><a href="#">taste.elixir@gmail.com</a></p>
+      </div>
+    </div>
+  </div>
+</div>
