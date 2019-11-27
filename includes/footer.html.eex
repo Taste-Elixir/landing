@@ -2,14 +2,14 @@
   <div class="row mb-5">
     <div class="col-md-4">
       <h2 class="footer-heading text-uppercase mb-4">About Event</h2>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit aliquid quibusdam fugit architecto.</p>
+      <p>Elixir Girls and Boys is a community driven workshop dedicated to Elixir first-timers. Our goal is to spread the word about Elixir and encourage people to expand their knowledge of coding.</p>
     </div>
     <div class="col-md-3 ml-auto">
       <h2 class="footer-heading text-uppercase mb-4">Quick Links</h2>
       <ul class="list-unstyled">
-        <li><a href="#about">About</a></li>
+        <li><a href="#footer">About</a></li>
         <li><a href="#events">Events</a></li>
-        <li><a href="#">Guides</a></li>
+        <li><a href="https://taste-elixir.github.io/guides">Guides</a></li>
         <li><a href="#sponsors">Sponsors</a></li>
         <li><a href="#team">Team</a></li>
         <li><a href="#contact">Contact</a></li>

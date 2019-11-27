@@ -18,7 +18,7 @@
       <h2 class="text-white mb-4 name" data-aos="fade-right" data-aos-delay="200">Adam Skołuda</h2>
       <div class="bio pl-lg-5">
         <span class="text-uppercase text-primary d-block mb-3" data-aos="fade-right" data-aos-delay="300">Developer</span>
-        <p class="mb-4" data-aos="fade-right" data-aos-delay="400">I am a cheerful guy who really enjoys programming, speaking and extending knowledge. My colleagues would describe me as a person who asks many questions, maybe sometimes too many. :) I like working in the office, talking to people helping them and learning from them. This is the reason why I organize Elixir workshops. In my free time, I'm developing some private projects, playing football in amateur leagues, playing board games, dancing, socializing. I've been working as a professional developer for 6 years in various technologies, mainly RoR and Elixir.</p>
+        <p class="mb-4" data-aos="fade-right" data-aos-delay="400">Adam is a cheerful guy who enjoys programming, speaking and extending his knowledge. You can definitely describe him as a person asking many questions, probably too many ;) He likes working at the office, talking to people, helping them and learning from them. That is the reason why he started organizing Elixir workshops. During free time, he is developing some private projects, playing football in amateur leagues, board games, dancing and socializing. He has been working as a professional developer for 6 years now, in various technologies, mostly RoR and Elixir.</p>
         <p data-aos="fade-right" data-aos-delay="500">
           Follow Adam &mdash;
           <a href="https://www.linkedin.com/in/adam-skoluda/" class="p-2"><span class="icon-linkedin"></span></a>
@@ -37,7 +37,7 @@
       <h2 class="text-white mb-4 name" data-aos="fade-left" data-aos-delay="200">Małgorzata Trojanowska</h2>
       <div class="bio pr-lg-5">
         <span class="text-uppercase text-primary d-block mb-3" data-aos="fade-left" data-aos-delay="300">Project manager</span>
-        <p class="mb-4" data-aos="fade-left" data-aos-delay="400">I am a hardworking and committed project manager with great knowledge and skills in leadership, agility, teamwork and communication. I am an effective, flexible and goal-oriented enthusiast, not afraid of challenges and multitasking. I have a positive attitude and the ability to think quickly. I am a creative person looking for solutions where others can't see them. I am passionate about public speaking and leading workshops.</p>
+        <p class="mb-4" data-aos="fade-left" data-aos-delay="400">So far the the only non-developer team member. At Taste Elixir responsible for all the logistics and social media content. On a daily basis she works as a Project Manager at a software house. After hours a huge fan of baking, public speaking and doing different kinds of sports, preferably all at the same time.</p>
         <p data-aos="fade-left" data-aos-delay="500">
           Follow Małgorzata &mdash;
           <a href="https://www.linkedin.com/in/malgorzata-trojanowska/" class="p-2"><span class="icon-linkedin"></span></a>
@@ -56,7 +56,7 @@
       <h2 class="text-white mb-4 name" data-aos="fade-right" data-aos-delay="200">Michał Wojcieszyk</h2>
       <div class="bio pl-lg-5">
         <span class="text-uppercase text-primary d-block mb-3" data-aos="fade-right" data-aos-delay="300">Developer</span>
-        <p class="mb-4" data-aos="fade-right" data-aos-delay="400">In the programming world for over 3 years, I have Ruby and Elixir apps in my portfolio. Currently, I'm developing an Elixir app from a logistic business domain in remote cooperation with an international team. In my spare time, I'm taking part as co-organizer of other non-profit initiatives like Elixir Girls Poznań workshops and FI_RST meetup. Privately I'm a big fan of weightlifting, squash, basketball, delicious food and a father of two... cats."</p>
+        <p class="mb-4" data-aos="fade-right" data-aos-delay="400">In the programming world for three and a half years, with Ruby and Elixir apps in his portfolio. Apart from supporting local Elixir community, he is a co-organiser of FI_rst meetup that connects technology, design and innovation. Privately a big fan of weightlifting, squash, basketball, delicious food and a father of two...cats."</p>
         <p data-aos="fade-right" data-aos-delay="500">
           Follow Michał &mdash;
           <a href="https://www.linkedin.com/in/michalwojcieszyk/" class="p-2"><span class="icon-linkedin"></span></a>
@@ -76,7 +76,7 @@
       <h2 class="text-white mb-4 name" data-aos="fade-left" data-aos-delay="200">Łukasz Jankowski</h2>
       <div class="bio pr-lg-5">
         <span class="text-uppercase text-primary d-block mb-3" data-aos="fade-left" data-aos-delay="300">Developer</span>
-        <p class="mb-4" data-aos="fade-left" data-aos-delay="400">Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus error deleniti dolores necessitatibus eligendi. Nesciunt repellendus ab voluptatibus. Minima architecto impedit eaque molestiae dicta quam. Cum ducimus. Culpa distinctio aperiam</p>
+        <p class="mb-4" data-aos="fade-left" data-aos-delay="400">Words that describe him best: an alchemist playing with Elixir language. After work happy to mentor during programming workshops (RailsGirls, ElixirGirls). Visiting different programming conferences shuffling various roles, being a speaker, volunteer, or a participant. Some time ago, TEDx Poznań conferences organizer. In his spare time you can find Łukasz hiking and playing squash.</p>
         <p data-aos="fade-left" data-aos-delay="500">
           Follow Łukasz &mdash;
           <a href="https://www.linkedin.com/in/lukasz-piotr-jankowski/" class="p-2"><span class="icon-linkedin"></span></a>

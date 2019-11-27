@@ -1,0 +1,12 @@
+Purple Heart
+
+HEX: #4710b2
+RGB: rgb(71,16,178)
+Pantone Violet C
+
+
+Purple Heart
+
+HEX: #8830e3
+RGB: rgb(136,48,227)
+Pantone 7442 C
