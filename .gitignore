@@ -24,3 +24,5 @@ landing-*.tar
 
 # The default directory which Serum builds the website into.
 /site/
+
+.elixir_ls/
