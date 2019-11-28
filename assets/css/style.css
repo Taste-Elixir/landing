@@ -99,7 +99,7 @@ h1, h2, h3, h4, h5,
   padding: 2.5em 0; }
   @media (min-width: 768px) {
     .site-section {
-      padding: 10em 0; } }
+      padding: 3em 0; } }
   .site-section.site-section-sm {
     padding: 4em 0; }
 
@@ -556,7 +556,7 @@ h1, h2, h3, h4, h5,
   max-width: 1400px; }
 
 .site-hero {
-  margin-bottom: 10rem; }
+  margin-bottom: 5rem; }
   .site-hero, .site-hero .row {
     min-height: 700px;
     height: calc(100vh - 95px); }
